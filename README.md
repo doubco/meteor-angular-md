@@ -1,5 +1,5 @@
 # meteor-angular-md
-Compile Markdown files into templates for use in meteor-angular, with Angular 1.x.
+Compiles markdown files into angular templates for use in meteor-angular, with Angular 1.x.
 
 ### Prerequisites
 For use with angular-meteor only. https://github.com/Urigo/angular-meteor

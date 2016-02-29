@@ -1,6 +1,6 @@
 Package.describe({
   name: "doubco:meteor-angular-md",
-  summary: "Compile markdown files into angular templates",
+  summary: "Compiles markdown files into angular templates",
   version: "0.0.1",
   git: "https://github.com/doubco/meteor-angular-md.git"
 });
